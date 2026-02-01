@@ -1,8 +1,6 @@
 # Apache-spark
 Pyspark practicals
 
-This repository contains **PySpark practicals** completed as part of the **ETDS-2 (Emerging Trends in Data Science)** curriculum for the **M.Sc. Big Data Analytics** program.
-
 The practicals cover **distributed computing**, **data processing**, **Spark SQL**, **machine learning using MLlib**, **time series analysis**, and **real-time streaming** using Apache Spark.
 
 ---
